@@ -9,5 +9,5 @@
 Useful resources about pattern design: 
 [SingletonSeane](https://www.youtube.com/watch?v=7fCLsQ_Gokk&list=PLA8ZIAm2I03jaAbvEWk7nHlBYxy03JP46&index=2 "SingletonSean")
 [dofactory](https://www.dofactory.com/net/design-patterns/ "dofactory")
-[refactoring](https://refactoring.guru/ "refactoring")
+[refactoring](https://refactoring.guru/ "refactoring-Guru")
 
